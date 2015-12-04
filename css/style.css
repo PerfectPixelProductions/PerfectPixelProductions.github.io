@@ -429,7 +429,7 @@ Intro
     /*background: url(../img/CityBackground.png) no-repeat center center;*/
     background: url(../img/Website-Header.gif) no-repeat center center;
   background-size: cover;
-    background-position: top;
+    background-position: center;
   z-index: 2;
 }
 #cd-intro #cd-intro-tagline {
