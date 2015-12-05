@@ -49,8 +49,9 @@ img {
 
 #cd-intro-tagline p {
     color: black;
-    font-weight: 100;
+    font-weight: 900;
     line-height: 25px;
+    font-size: 1em;
 }
 
 section#cd-placeholder-1 {
